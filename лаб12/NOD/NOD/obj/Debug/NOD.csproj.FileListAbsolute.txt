@@ -1,0 +1,7 @@
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб12\NOD\NOD\bin\Debug\NOD.exe.config
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб12\NOD\NOD\bin\Debug\NOD.exe
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб12\NOD\NOD\bin\Debug\NOD.pdb
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб12\NOD\NOD\obj\Debug\NOD.csproj.AssemblyReference.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб12\NOD\NOD\obj\Debug\NOD.csproj.CoreCompileInputs.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб12\NOD\NOD\obj\Debug\NOD.exe
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб12\NOD\NOD\obj\Debug\NOD.pdb
