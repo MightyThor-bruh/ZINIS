@@ -1,0 +1,71 @@
+D:\University\3 course\1 sem\Защита информации_10вар\lab2\Ent\Ent\bin\Debug\netcoreapp3.1\Ent.exe
+D:\University\3 course\1 sem\Защита информации_10вар\lab2\Ent\Ent\bin\Debug\netcoreapp3.1\Ent.deps.json
+D:\University\3 course\1 sem\Защита информации_10вар\lab2\Ent\Ent\bin\Debug\netcoreapp3.1\Ent.runtimeconfig.json
+D:\University\3 course\1 sem\Защита информации_10вар\lab2\Ent\Ent\bin\Debug\netcoreapp3.1\Ent.runtimeconfig.dev.json
+D:\University\3 course\1 sem\Защита информации_10вар\lab2\Ent\Ent\bin\Debug\netcoreapp3.1\Ent.dll
+D:\University\3 course\1 sem\Защита информации_10вар\lab2\Ent\Ent\bin\Debug\netcoreapp3.1\Ent.pdb
+D:\University\3 course\1 sem\Защита информации_10вар\lab2\Ent\Ent\obj\Debug\netcoreapp3.1\Ent.csprojAssemblyReference.cache
+D:\University\3 course\1 sem\Защита информации_10вар\lab2\Ent\Ent\obj\Debug\netcoreapp3.1\Ent.AssemblyInfoInputs.cache
+D:\University\3 course\1 sem\Защита информации_10вар\lab2\Ent\Ent\obj\Debug\netcoreapp3.1\Ent.AssemblyInfo.cs
+D:\University\3 course\1 sem\Защита информации_10вар\lab2\Ent\Ent\obj\Debug\netcoreapp3.1\Ent.csproj.CoreCompileInputs.cache
+D:\University\3 course\1 sem\Защита информации_10вар\lab2\Ent\Ent\obj\Debug\netcoreapp3.1\Ent.dll
+D:\University\3 course\1 sem\Защита информации_10вар\lab2\Ent\Ent\obj\Debug\netcoreapp3.1\Ent.pdb
+D:\University\3 course\1 sem\Защита информации_10вар\lab2\Ent\Ent\obj\Debug\netcoreapp3.1\Ent.genruntimeconfig.cache
+D:\University\3 course\1 sem\Защита информации_10вар\lab2\Ent\Ent\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\University\3 course\1 sem\Защита информации_10вар\lab2\Ent\Ent\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\University\3 course\1 sem\Защита информации_10вар\lab2\Ent\Ent\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\University\3 course\1 sem\Защита информации_10вар\lab2\Ent\Ent\obj\Debug\netcoreapp3.1\Ent.csproj.CopyComplete
+D:\Стандартные папки\Рабочий стол\virusSleep\lab2\Ent\Ent\bin\Debug\netcoreapp3.1\Ent.exe
+D:\Стандартные папки\Рабочий стол\virusSleep\lab2\Ent\Ent\bin\Debug\netcoreapp3.1\Ent.deps.json
+D:\Стандартные папки\Рабочий стол\virusSleep\lab2\Ent\Ent\bin\Debug\netcoreapp3.1\Ent.runtimeconfig.json
+D:\Стандартные папки\Рабочий стол\virusSleep\lab2\Ent\Ent\bin\Debug\netcoreapp3.1\Ent.runtimeconfig.dev.json
+D:\Стандартные папки\Рабочий стол\virusSleep\lab2\Ent\Ent\bin\Debug\netcoreapp3.1\Ent.dll
+D:\Стандартные папки\Рабочий стол\virusSleep\lab2\Ent\Ent\bin\Debug\netcoreapp3.1\Ent.pdb
+D:\Стандартные папки\Рабочий стол\virusSleep\lab2\Ent\Ent\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Стандартные папки\Рабочий стол\virusSleep\lab2\Ent\Ent\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\Стандартные папки\Рабочий стол\virusSleep\lab2\Ent\Ent\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\Стандартные папки\Рабочий стол\virusSleep\lab2\Ent\Ent\obj\Debug\netcoreapp3.1\Ent.csproj.AssemblyReference.cache
+D:\Стандартные папки\Рабочий стол\virusSleep\lab2\Ent\Ent\obj\Debug\netcoreapp3.1\Ent.GeneratedMSBuildEditorConfig.editorconfig
+D:\Стандартные папки\Рабочий стол\virusSleep\lab2\Ent\Ent\obj\Debug\netcoreapp3.1\Ent.AssemblyInfoInputs.cache
+D:\Стандартные папки\Рабочий стол\virusSleep\lab2\Ent\Ent\obj\Debug\netcoreapp3.1\Ent.AssemblyInfo.cs
+D:\Стандартные папки\Рабочий стол\virusSleep\lab2\Ent\Ent\obj\Debug\netcoreapp3.1\Ent.csproj.CoreCompileInputs.cache
+D:\Стандартные папки\Рабочий стол\virusSleep\lab2\Ent\Ent\obj\Debug\netcoreapp3.1\Ent.csproj.CopyComplete
+D:\Стандартные папки\Рабочий стол\virusSleep\lab2\Ent\Ent\obj\Debug\netcoreapp3.1\Ent.dll
+D:\Стандартные папки\Рабочий стол\virusSleep\lab2\Ent\Ent\obj\Debug\netcoreapp3.1\Ent.pdb
+D:\Стандартные папки\Рабочий стол\virusSleep\lab2\Ent\Ent\obj\Debug\netcoreapp3.1\Ent.genruntimeconfig.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\Ent\Ent\bin\Debug\netcoreapp3.1\Ent.exe
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\Ent\Ent\bin\Debug\netcoreapp3.1\Ent.deps.json
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\Ent\Ent\bin\Debug\netcoreapp3.1\Ent.runtimeconfig.json
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\Ent\Ent\bin\Debug\netcoreapp3.1\Ent.runtimeconfig.dev.json
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\Ent\Ent\bin\Debug\netcoreapp3.1\Ent.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\Ent\Ent\bin\Debug\netcoreapp3.1\Ent.pdb
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\Ent\Ent\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\Ent\Ent\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\Ent\Ent\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\Ent\Ent\obj\Debug\netcoreapp3.1\Ent.csproj.AssemblyReference.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\Ent\Ent\obj\Debug\netcoreapp3.1\Ent.GeneratedMSBuildEditorConfig.editorconfig
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\Ent\Ent\obj\Debug\netcoreapp3.1\Ent.AssemblyInfoInputs.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\Ent\Ent\obj\Debug\netcoreapp3.1\Ent.AssemblyInfo.cs
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\Ent\Ent\obj\Debug\netcoreapp3.1\Ent.csproj.CoreCompileInputs.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\Ent\Ent\obj\Debug\netcoreapp3.1\Ent.csproj.CopyComplete
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\Ent\Ent\obj\Debug\netcoreapp3.1\Ent.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\Ent\Ent\obj\Debug\netcoreapp3.1\Ent.pdb
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\Ent\Ent\obj\Debug\netcoreapp3.1\Ent.genruntimeconfig.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб2\Ent\Ent\bin\Debug\netcoreapp3.1\Ent.exe
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб2\Ent\Ent\bin\Debug\netcoreapp3.1\Ent.deps.json
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб2\Ent\Ent\bin\Debug\netcoreapp3.1\Ent.runtimeconfig.json
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб2\Ent\Ent\bin\Debug\netcoreapp3.1\Ent.runtimeconfig.dev.json
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб2\Ent\Ent\bin\Debug\netcoreapp3.1\Ent.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб2\Ent\Ent\bin\Debug\netcoreapp3.1\Ent.pdb
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб2\Ent\Ent\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб2\Ent\Ent\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб2\Ent\Ent\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб2\Ent\Ent\obj\Debug\netcoreapp3.1\Ent.csproj.AssemblyReference.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб2\Ent\Ent\obj\Debug\netcoreapp3.1\Ent.GeneratedMSBuildEditorConfig.editorconfig
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб2\Ent\Ent\obj\Debug\netcoreapp3.1\Ent.AssemblyInfoInputs.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб2\Ent\Ent\obj\Debug\netcoreapp3.1\Ent.AssemblyInfo.cs
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб2\Ent\Ent\obj\Debug\netcoreapp3.1\Ent.csproj.CoreCompileInputs.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб2\Ent\Ent\obj\Debug\netcoreapp3.1\Ent.csproj.CopyComplete
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб2\Ent\Ent\obj\Debug\netcoreapp3.1\Ent.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб2\Ent\Ent\obj\Debug\netcoreapp3.1\Ent.pdb
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб2\Ent\Ent\obj\Debug\netcoreapp3.1\Ent.genruntimeconfig.cache

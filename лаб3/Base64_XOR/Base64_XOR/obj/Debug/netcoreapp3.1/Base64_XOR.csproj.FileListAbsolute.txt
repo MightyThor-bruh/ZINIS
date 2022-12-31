@@ -1,0 +1,35 @@
+D:\University\3 course\1 sem\Защита информации_10вар\lab3\Base64_XOR\Base64_XOR\bin\Debug\netcoreapp3.1\Base64_XOR.exe
+D:\University\3 course\1 sem\Защита информации_10вар\lab3\Base64_XOR\Base64_XOR\bin\Debug\netcoreapp3.1\Base64_XOR.deps.json
+D:\University\3 course\1 sem\Защита информации_10вар\lab3\Base64_XOR\Base64_XOR\bin\Debug\netcoreapp3.1\Base64_XOR.runtimeconfig.json
+D:\University\3 course\1 sem\Защита информации_10вар\lab3\Base64_XOR\Base64_XOR\bin\Debug\netcoreapp3.1\Base64_XOR.runtimeconfig.dev.json
+D:\University\3 course\1 sem\Защита информации_10вар\lab3\Base64_XOR\Base64_XOR\bin\Debug\netcoreapp3.1\Base64_XOR.dll
+D:\University\3 course\1 sem\Защита информации_10вар\lab3\Base64_XOR\Base64_XOR\bin\Debug\netcoreapp3.1\Base64_XOR.pdb
+D:\University\3 course\1 sem\Защита информации_10вар\lab3\Base64_XOR\Base64_XOR\obj\Debug\netcoreapp3.1\Base64_XOR.csprojAssemblyReference.cache
+D:\University\3 course\1 sem\Защита информации_10вар\lab3\Base64_XOR\Base64_XOR\obj\Debug\netcoreapp3.1\Base64_XOR.AssemblyInfoInputs.cache
+D:\University\3 course\1 sem\Защита информации_10вар\lab3\Base64_XOR\Base64_XOR\obj\Debug\netcoreapp3.1\Base64_XOR.AssemblyInfo.cs
+D:\University\3 course\1 sem\Защита информации_10вар\lab3\Base64_XOR\Base64_XOR\obj\Debug\netcoreapp3.1\Base64_XOR.csproj.CoreCompileInputs.cache
+D:\University\3 course\1 sem\Защита информации_10вар\lab3\Base64_XOR\Base64_XOR\obj\Debug\netcoreapp3.1\Base64_XOR.dll
+D:\University\3 course\1 sem\Защита информации_10вар\lab3\Base64_XOR\Base64_XOR\obj\Debug\netcoreapp3.1\Base64_XOR.pdb
+D:\University\3 course\1 sem\Защита информации_10вар\lab3\Base64_XOR\Base64_XOR\obj\Debug\netcoreapp3.1\Base64_XOR.genruntimeconfig.cache
+D:\University\3 course\1 sem\Защита информации_10вар\lab3\Base64_XOR\Base64_XOR\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\University\3 course\1 sem\Защита информации_10вар\lab3\Base64_XOR\Base64_XOR\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\University\3 course\1 sem\Защита информации_10вар\lab3\Base64_XOR\Base64_XOR\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\University\3 course\1 sem\Защита информации_10вар\lab3\Base64_XOR\Base64_XOR\obj\Debug\netcoreapp3.1\Base64_XOR.csproj.CopyComplete
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб3\Base64_XOR\Base64_XOR\bin\Debug\netcoreapp3.1\Base64_XOR.exe
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб3\Base64_XOR\Base64_XOR\bin\Debug\netcoreapp3.1\Base64_XOR.deps.json
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб3\Base64_XOR\Base64_XOR\bin\Debug\netcoreapp3.1\Base64_XOR.runtimeconfig.json
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб3\Base64_XOR\Base64_XOR\bin\Debug\netcoreapp3.1\Base64_XOR.runtimeconfig.dev.json
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб3\Base64_XOR\Base64_XOR\bin\Debug\netcoreapp3.1\Base64_XOR.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб3\Base64_XOR\Base64_XOR\bin\Debug\netcoreapp3.1\Base64_XOR.pdb
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб3\Base64_XOR\Base64_XOR\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб3\Base64_XOR\Base64_XOR\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб3\Base64_XOR\Base64_XOR\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб3\Base64_XOR\Base64_XOR\obj\Debug\netcoreapp3.1\Base64_XOR.csproj.AssemblyReference.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб3\Base64_XOR\Base64_XOR\obj\Debug\netcoreapp3.1\Base64_XOR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб3\Base64_XOR\Base64_XOR\obj\Debug\netcoreapp3.1\Base64_XOR.AssemblyInfoInputs.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб3\Base64_XOR\Base64_XOR\obj\Debug\netcoreapp3.1\Base64_XOR.AssemblyInfo.cs
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб3\Base64_XOR\Base64_XOR\obj\Debug\netcoreapp3.1\Base64_XOR.csproj.CoreCompileInputs.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб3\Base64_XOR\Base64_XOR\obj\Debug\netcoreapp3.1\Base64_XOR.csproj.CopyComplete
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб3\Base64_XOR\Base64_XOR\obj\Debug\netcoreapp3.1\Base64_XOR.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб3\Base64_XOR\Base64_XOR\obj\Debug\netcoreapp3.1\Base64_XOR.pdb
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб3\Base64_XOR\Base64_XOR\obj\Debug\netcoreapp3.1\Base64_XOR.genruntimeconfig.cache

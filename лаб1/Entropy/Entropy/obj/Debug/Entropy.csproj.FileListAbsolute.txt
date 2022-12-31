@@ -1,0 +1,7 @@
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\Entropy\Entropy\bin\Debug\Entropy.exe.config
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\Entropy\Entropy\bin\Debug\Entropy.exe
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\Entropy\Entropy\bin\Debug\Entropy.pdb
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\Entropy\Entropy\obj\Debug\Entropy.csproj.AssemblyReference.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\Entropy\Entropy\obj\Debug\Entropy.csproj.CoreCompileInputs.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\Entropy\Entropy\obj\Debug\Entropy.exe
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\Entropy\Entropy\obj\Debug\Entropy.pdb
