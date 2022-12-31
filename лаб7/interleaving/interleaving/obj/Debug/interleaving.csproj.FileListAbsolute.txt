@@ -1,0 +1,2 @@
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб7\interleaving\interleaving\obj\Debug\interleaving.csproj.AssemblyReference.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб7\interleaving\interleaving\obj\Debug\interleaving.csproj.CoreCompileInputs.cache
