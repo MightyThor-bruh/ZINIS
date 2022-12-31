@@ -1,0 +1,27 @@
+D:\University\3 course\1 sem\Защита информации_10вар\lab9\StaticMethods\StaticMethods\bin\Debug\netcoreapp3.1\StaticMethods.exe
+D:\University\3 course\1 sem\Защита информации_10вар\lab9\StaticMethods\StaticMethods\bin\Debug\netcoreapp3.1\StaticMethods.deps.json
+D:\University\3 course\1 sem\Защита информации_10вар\lab9\StaticMethods\StaticMethods\bin\Debug\netcoreapp3.1\StaticMethods.runtimeconfig.json
+D:\University\3 course\1 sem\Защита информации_10вар\lab9\StaticMethods\StaticMethods\bin\Debug\netcoreapp3.1\StaticMethods.runtimeconfig.dev.json
+D:\University\3 course\1 sem\Защита информации_10вар\lab9\StaticMethods\StaticMethods\bin\Debug\netcoreapp3.1\StaticMethods.dll
+D:\University\3 course\1 sem\Защита информации_10вар\lab9\StaticMethods\StaticMethods\bin\Debug\netcoreapp3.1\StaticMethods.pdb
+D:\University\3 course\1 sem\Защита информации_10вар\lab9\StaticMethods\StaticMethods\obj\Debug\netcoreapp3.1\StaticMethods.csprojAssemblyReference.cache
+D:\University\3 course\1 sem\Защита информации_10вар\lab9\StaticMethods\StaticMethods\obj\Debug\netcoreapp3.1\StaticMethods.AssemblyInfoInputs.cache
+D:\University\3 course\1 sem\Защита информации_10вар\lab9\StaticMethods\StaticMethods\obj\Debug\netcoreapp3.1\StaticMethods.AssemblyInfo.cs
+D:\University\3 course\1 sem\Защита информации_10вар\lab9\StaticMethods\StaticMethods\obj\Debug\netcoreapp3.1\StaticMethods.csproj.CoreCompileInputs.cache
+D:\University\3 course\1 sem\Защита информации_10вар\lab9\StaticMethods\StaticMethods\obj\Debug\netcoreapp3.1\StaticMethods.dll
+D:\University\3 course\1 sem\Защита информации_10вар\lab9\StaticMethods\StaticMethods\obj\Debug\netcoreapp3.1\StaticMethods.pdb
+D:\University\3 course\1 sem\Защита информации_10вар\lab9\StaticMethods\StaticMethods\obj\Debug\netcoreapp3.1\StaticMethods.genruntimeconfig.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб9\StaticMethods\StaticMethods\bin\Debug\netcoreapp3.1\StaticMethods.exe
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб9\StaticMethods\StaticMethods\bin\Debug\netcoreapp3.1\StaticMethods.deps.json
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб9\StaticMethods\StaticMethods\bin\Debug\netcoreapp3.1\StaticMethods.runtimeconfig.json
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб9\StaticMethods\StaticMethods\bin\Debug\netcoreapp3.1\StaticMethods.runtimeconfig.dev.json
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб9\StaticMethods\StaticMethods\bin\Debug\netcoreapp3.1\StaticMethods.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб9\StaticMethods\StaticMethods\bin\Debug\netcoreapp3.1\StaticMethods.pdb
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб9\StaticMethods\StaticMethods\obj\Debug\netcoreapp3.1\StaticMethods.csproj.AssemblyReference.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб9\StaticMethods\StaticMethods\obj\Debug\netcoreapp3.1\StaticMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб9\StaticMethods\StaticMethods\obj\Debug\netcoreapp3.1\StaticMethods.AssemblyInfoInputs.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб9\StaticMethods\StaticMethods\obj\Debug\netcoreapp3.1\StaticMethods.AssemblyInfo.cs
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб9\StaticMethods\StaticMethods\obj\Debug\netcoreapp3.1\StaticMethods.csproj.CoreCompileInputs.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб9\StaticMethods\StaticMethods\obj\Debug\netcoreapp3.1\StaticMethods.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб9\StaticMethods\StaticMethods\obj\Debug\netcoreapp3.1\StaticMethods.pdb
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб9\StaticMethods\StaticMethods\obj\Debug\netcoreapp3.1\StaticMethods.genruntimeconfig.cache

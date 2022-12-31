@@ -1,0 +1,27 @@
+D:\University\3 course\1 sem\Защита информации_10вар\lab8\Burrows_Wheeller\Burrows_Wheeller\bin\Debug\netcoreapp3.1\Burrows_Wheeller.exe
+D:\University\3 course\1 sem\Защита информации_10вар\lab8\Burrows_Wheeller\Burrows_Wheeller\bin\Debug\netcoreapp3.1\Burrows_Wheeller.deps.json
+D:\University\3 course\1 sem\Защита информации_10вар\lab8\Burrows_Wheeller\Burrows_Wheeller\bin\Debug\netcoreapp3.1\Burrows_Wheeller.runtimeconfig.json
+D:\University\3 course\1 sem\Защита информации_10вар\lab8\Burrows_Wheeller\Burrows_Wheeller\bin\Debug\netcoreapp3.1\Burrows_Wheeller.runtimeconfig.dev.json
+D:\University\3 course\1 sem\Защита информации_10вар\lab8\Burrows_Wheeller\Burrows_Wheeller\bin\Debug\netcoreapp3.1\Burrows_Wheeller.dll
+D:\University\3 course\1 sem\Защита информации_10вар\lab8\Burrows_Wheeller\Burrows_Wheeller\bin\Debug\netcoreapp3.1\Burrows_Wheeller.pdb
+D:\University\3 course\1 sem\Защита информации_10вар\lab8\Burrows_Wheeller\Burrows_Wheeller\obj\Debug\netcoreapp3.1\Burrows_Wheeller.csprojAssemblyReference.cache
+D:\University\3 course\1 sem\Защита информации_10вар\lab8\Burrows_Wheeller\Burrows_Wheeller\obj\Debug\netcoreapp3.1\Burrows_Wheeller.AssemblyInfoInputs.cache
+D:\University\3 course\1 sem\Защита информации_10вар\lab8\Burrows_Wheeller\Burrows_Wheeller\obj\Debug\netcoreapp3.1\Burrows_Wheeller.AssemblyInfo.cs
+D:\University\3 course\1 sem\Защита информации_10вар\lab8\Burrows_Wheeller\Burrows_Wheeller\obj\Debug\netcoreapp3.1\Burrows_Wheeller.csproj.CoreCompileInputs.cache
+D:\University\3 course\1 sem\Защита информации_10вар\lab8\Burrows_Wheeller\Burrows_Wheeller\obj\Debug\netcoreapp3.1\Burrows_Wheeller.dll
+D:\University\3 course\1 sem\Защита информации_10вар\lab8\Burrows_Wheeller\Burrows_Wheeller\obj\Debug\netcoreapp3.1\Burrows_Wheeller.pdb
+D:\University\3 course\1 sem\Защита информации_10вар\lab8\Burrows_Wheeller\Burrows_Wheeller\obj\Debug\netcoreapp3.1\Burrows_Wheeller.genruntimeconfig.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб8\Burrows_Wheeller\Burrows_Wheeller\bin\Debug\netcoreapp3.1\Burrows_Wheeller.exe
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб8\Burrows_Wheeller\Burrows_Wheeller\bin\Debug\netcoreapp3.1\Burrows_Wheeller.deps.json
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб8\Burrows_Wheeller\Burrows_Wheeller\bin\Debug\netcoreapp3.1\Burrows_Wheeller.runtimeconfig.json
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб8\Burrows_Wheeller\Burrows_Wheeller\bin\Debug\netcoreapp3.1\Burrows_Wheeller.runtimeconfig.dev.json
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб8\Burrows_Wheeller\Burrows_Wheeller\bin\Debug\netcoreapp3.1\Burrows_Wheeller.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб8\Burrows_Wheeller\Burrows_Wheeller\bin\Debug\netcoreapp3.1\Burrows_Wheeller.pdb
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб8\Burrows_Wheeller\Burrows_Wheeller\obj\Debug\netcoreapp3.1\Burrows_Wheeller.csproj.AssemblyReference.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб8\Burrows_Wheeller\Burrows_Wheeller\obj\Debug\netcoreapp3.1\Burrows_Wheeller.GeneratedMSBuildEditorConfig.editorconfig
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб8\Burrows_Wheeller\Burrows_Wheeller\obj\Debug\netcoreapp3.1\Burrows_Wheeller.AssemblyInfoInputs.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб8\Burrows_Wheeller\Burrows_Wheeller\obj\Debug\netcoreapp3.1\Burrows_Wheeller.AssemblyInfo.cs
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб8\Burrows_Wheeller\Burrows_Wheeller\obj\Debug\netcoreapp3.1\Burrows_Wheeller.csproj.CoreCompileInputs.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб8\Burrows_Wheeller\Burrows_Wheeller\obj\Debug\netcoreapp3.1\Burrows_Wheeller.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб8\Burrows_Wheeller\Burrows_Wheeller\obj\Debug\netcoreapp3.1\Burrows_Wheeller.pdb
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб8\Burrows_Wheeller\Burrows_Wheeller\obj\Debug\netcoreapp3.1\Burrows_Wheeller.genruntimeconfig.cache
