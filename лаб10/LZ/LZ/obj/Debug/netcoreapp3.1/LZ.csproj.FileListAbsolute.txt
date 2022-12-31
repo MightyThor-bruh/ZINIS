@@ -1,0 +1,27 @@
+D:\University\3 course\1 sem\Защита информации_10вар\lab10\LZ\LZ\bin\Debug\netcoreapp3.1\LZ.exe
+D:\University\3 course\1 sem\Защита информации_10вар\lab10\LZ\LZ\bin\Debug\netcoreapp3.1\LZ.deps.json
+D:\University\3 course\1 sem\Защита информации_10вар\lab10\LZ\LZ\bin\Debug\netcoreapp3.1\LZ.runtimeconfig.json
+D:\University\3 course\1 sem\Защита информации_10вар\lab10\LZ\LZ\bin\Debug\netcoreapp3.1\LZ.runtimeconfig.dev.json
+D:\University\3 course\1 sem\Защита информации_10вар\lab10\LZ\LZ\bin\Debug\netcoreapp3.1\LZ.dll
+D:\University\3 course\1 sem\Защита информации_10вар\lab10\LZ\LZ\bin\Debug\netcoreapp3.1\LZ.pdb
+D:\University\3 course\1 sem\Защита информации_10вар\lab10\LZ\LZ\obj\Debug\netcoreapp3.1\LZ.csprojAssemblyReference.cache
+D:\University\3 course\1 sem\Защита информации_10вар\lab10\LZ\LZ\obj\Debug\netcoreapp3.1\LZ.AssemblyInfoInputs.cache
+D:\University\3 course\1 sem\Защита информации_10вар\lab10\LZ\LZ\obj\Debug\netcoreapp3.1\LZ.AssemblyInfo.cs
+D:\University\3 course\1 sem\Защита информации_10вар\lab10\LZ\LZ\obj\Debug\netcoreapp3.1\LZ.csproj.CoreCompileInputs.cache
+D:\University\3 course\1 sem\Защита информации_10вар\lab10\LZ\LZ\obj\Debug\netcoreapp3.1\LZ.dll
+D:\University\3 course\1 sem\Защита информации_10вар\lab10\LZ\LZ\obj\Debug\netcoreapp3.1\LZ.pdb
+D:\University\3 course\1 sem\Защита информации_10вар\lab10\LZ\LZ\obj\Debug\netcoreapp3.1\LZ.genruntimeconfig.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб10\LZ\LZ\bin\Debug\netcoreapp3.1\LZ.exe
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб10\LZ\LZ\bin\Debug\netcoreapp3.1\LZ.deps.json
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб10\LZ\LZ\bin\Debug\netcoreapp3.1\LZ.runtimeconfig.json
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб10\LZ\LZ\bin\Debug\netcoreapp3.1\LZ.runtimeconfig.dev.json
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб10\LZ\LZ\bin\Debug\netcoreapp3.1\LZ.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб10\LZ\LZ\bin\Debug\netcoreapp3.1\LZ.pdb
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб10\LZ\LZ\obj\Debug\netcoreapp3.1\LZ.csproj.AssemblyReference.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб10\LZ\LZ\obj\Debug\netcoreapp3.1\LZ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб10\LZ\LZ\obj\Debug\netcoreapp3.1\LZ.AssemblyInfoInputs.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб10\LZ\LZ\obj\Debug\netcoreapp3.1\LZ.AssemblyInfo.cs
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб10\LZ\LZ\obj\Debug\netcoreapp3.1\LZ.csproj.CoreCompileInputs.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб10\LZ\LZ\obj\Debug\netcoreapp3.1\LZ.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб10\LZ\LZ\obj\Debug\netcoreapp3.1\LZ.pdb
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб10\LZ\LZ\obj\Debug\netcoreapp3.1\LZ.genruntimeconfig.cache

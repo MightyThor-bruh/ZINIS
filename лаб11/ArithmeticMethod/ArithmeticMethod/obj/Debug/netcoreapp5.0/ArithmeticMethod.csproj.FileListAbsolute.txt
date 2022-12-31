@@ -1,0 +1,32 @@
+D:\University\3 course\1 sem\Защита информации_10вар\lab11\ArithmeticMethod\ArithmeticMethod\bin\Debug\netcoreapp5.0\ArithmeticMethod.exe
+D:\University\3 course\1 sem\Защита информации_10вар\lab11\ArithmeticMethod\ArithmeticMethod\bin\Debug\netcoreapp5.0\ArithmeticMethod.deps.json
+D:\University\3 course\1 sem\Защита информации_10вар\lab11\ArithmeticMethod\ArithmeticMethod\bin\Debug\netcoreapp5.0\ArithmeticMethod.runtimeconfig.json
+D:\University\3 course\1 sem\Защита информации_10вар\lab11\ArithmeticMethod\ArithmeticMethod\bin\Debug\netcoreapp5.0\ArithmeticMethod.runtimeconfig.dev.json
+D:\University\3 course\1 sem\Защита информации_10вар\lab11\ArithmeticMethod\ArithmeticMethod\bin\Debug\netcoreapp5.0\ArithmeticMethod.dll
+D:\University\3 course\1 sem\Защита информации_10вар\lab11\ArithmeticMethod\ArithmeticMethod\bin\Debug\netcoreapp5.0\ref\ArithmeticMethod.dll
+D:\University\3 course\1 sem\Защита информации_10вар\lab11\ArithmeticMethod\ArithmeticMethod\bin\Debug\netcoreapp5.0\ArithmeticMethod.pdb
+D:\University\3 course\1 sem\Защита информации_10вар\lab11\ArithmeticMethod\ArithmeticMethod\obj\Debug\netcoreapp5.0\ArithmeticMethod.csprojAssemblyReference.cache
+D:\University\3 course\1 sem\Защита информации_10вар\lab11\ArithmeticMethod\ArithmeticMethod\obj\Debug\netcoreapp5.0\ArithmeticMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\3 course\1 sem\Защита информации_10вар\lab11\ArithmeticMethod\ArithmeticMethod\obj\Debug\netcoreapp5.0\ArithmeticMethod.AssemblyInfoInputs.cache
+D:\University\3 course\1 sem\Защита информации_10вар\lab11\ArithmeticMethod\ArithmeticMethod\obj\Debug\netcoreapp5.0\ArithmeticMethod.AssemblyInfo.cs
+D:\University\3 course\1 sem\Защита информации_10вар\lab11\ArithmeticMethod\ArithmeticMethod\obj\Debug\netcoreapp5.0\ArithmeticMethod.csproj.CoreCompileInputs.cache
+D:\University\3 course\1 sem\Защита информации_10вар\lab11\ArithmeticMethod\ArithmeticMethod\obj\Debug\netcoreapp5.0\ArithmeticMethod.dll
+D:\University\3 course\1 sem\Защита информации_10вар\lab11\ArithmeticMethod\ArithmeticMethod\obj\Debug\netcoreapp5.0\ref\ArithmeticMethod.dll
+D:\University\3 course\1 sem\Защита информации_10вар\lab11\ArithmeticMethod\ArithmeticMethod\obj\Debug\netcoreapp5.0\ArithmeticMethod.pdb
+D:\University\3 course\1 sem\Защита информации_10вар\lab11\ArithmeticMethod\ArithmeticMethod\obj\Debug\netcoreapp5.0\ArithmeticMethod.genruntimeconfig.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб11\ArithmeticMethod\ArithmeticMethod\bin\Debug\netcoreapp5.0\ArithmeticMethod.exe
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб11\ArithmeticMethod\ArithmeticMethod\bin\Debug\netcoreapp5.0\ArithmeticMethod.deps.json
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб11\ArithmeticMethod\ArithmeticMethod\bin\Debug\netcoreapp5.0\ArithmeticMethod.runtimeconfig.json
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб11\ArithmeticMethod\ArithmeticMethod\bin\Debug\netcoreapp5.0\ArithmeticMethod.runtimeconfig.dev.json
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб11\ArithmeticMethod\ArithmeticMethod\bin\Debug\netcoreapp5.0\ArithmeticMethod.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб11\ArithmeticMethod\ArithmeticMethod\bin\Debug\netcoreapp5.0\ref\ArithmeticMethod.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб11\ArithmeticMethod\ArithmeticMethod\bin\Debug\netcoreapp5.0\ArithmeticMethod.pdb
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб11\ArithmeticMethod\ArithmeticMethod\obj\Debug\netcoreapp5.0\ArithmeticMethod.csproj.AssemblyReference.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб11\ArithmeticMethod\ArithmeticMethod\obj\Debug\netcoreapp5.0\ArithmeticMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб11\ArithmeticMethod\ArithmeticMethod\obj\Debug\netcoreapp5.0\ArithmeticMethod.AssemblyInfoInputs.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб11\ArithmeticMethod\ArithmeticMethod\obj\Debug\netcoreapp5.0\ArithmeticMethod.AssemblyInfo.cs
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб11\ArithmeticMethod\ArithmeticMethod\obj\Debug\netcoreapp5.0\ArithmeticMethod.csproj.CoreCompileInputs.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб11\ArithmeticMethod\ArithmeticMethod\obj\Debug\netcoreapp5.0\ArithmeticMethod.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб11\ArithmeticMethod\ArithmeticMethod\obj\Debug\netcoreapp5.0\ref\ArithmeticMethod.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб11\ArithmeticMethod\ArithmeticMethod\obj\Debug\netcoreapp5.0\ArithmeticMethod.pdb
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб11\ArithmeticMethod\ArithmeticMethod\obj\Debug\netcoreapp5.0\ArithmeticMethod.genruntimeconfig.cache
