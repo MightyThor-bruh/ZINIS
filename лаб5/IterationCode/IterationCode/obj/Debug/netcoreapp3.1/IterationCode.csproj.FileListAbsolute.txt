@@ -1,0 +1,41 @@
+D:\University\3 course\1 sem\Защита информации_10вар\lab5\IterationCode\IterationCode\bin\Debug\netcoreapp3.1\IterationCode.exe
+D:\University\3 course\1 sem\Защита информации_10вар\lab5\IterationCode\IterationCode\bin\Debug\netcoreapp3.1\IterationCode.deps.json
+D:\University\3 course\1 sem\Защита информации_10вар\lab5\IterationCode\IterationCode\bin\Debug\netcoreapp3.1\IterationCode.runtimeconfig.json
+D:\University\3 course\1 sem\Защита информации_10вар\lab5\IterationCode\IterationCode\bin\Debug\netcoreapp3.1\IterationCode.runtimeconfig.dev.json
+D:\University\3 course\1 sem\Защита информации_10вар\lab5\IterationCode\IterationCode\bin\Debug\netcoreapp3.1\IterationCode.dll
+D:\University\3 course\1 sem\Защита информации_10вар\lab5\IterationCode\IterationCode\bin\Debug\netcoreapp3.1\IterationCode.pdb
+D:\University\3 course\1 sem\Защита информации_10вар\lab5\IterationCode\IterationCode\obj\Debug\netcoreapp3.1\IterationCode.csprojAssemblyReference.cache
+D:\University\3 course\1 sem\Защита информации_10вар\lab5\IterationCode\IterationCode\obj\Debug\netcoreapp3.1\IterationCode.AssemblyInfoInputs.cache
+D:\University\3 course\1 sem\Защита информации_10вар\lab5\IterationCode\IterationCode\obj\Debug\netcoreapp3.1\IterationCode.AssemblyInfo.cs
+D:\University\3 course\1 sem\Защита информации_10вар\lab5\IterationCode\IterationCode\obj\Debug\netcoreapp3.1\IterationCode.csproj.CoreCompileInputs.cache
+D:\University\3 course\1 sem\Защита информации_10вар\lab5\IterationCode\IterationCode\obj\Debug\netcoreapp3.1\IterationCode.dll
+D:\University\3 course\1 sem\Защита информации_10вар\lab5\IterationCode\IterationCode\obj\Debug\netcoreapp3.1\IterationCode.pdb
+D:\University\3 course\1 sem\Защита информации_10вар\lab5\IterationCode\IterationCode\obj\Debug\netcoreapp3.1\IterationCode.genruntimeconfig.cache
+D:\Стандартные папки\Рабочий стол\virusSleep\lab5\IterationCode\IterationCode\bin\Debug\netcoreapp3.1\IterationCode.exe
+D:\Стандартные папки\Рабочий стол\virusSleep\lab5\IterationCode\IterationCode\bin\Debug\netcoreapp3.1\IterationCode.deps.json
+D:\Стандартные папки\Рабочий стол\virusSleep\lab5\IterationCode\IterationCode\bin\Debug\netcoreapp3.1\IterationCode.runtimeconfig.json
+D:\Стандартные папки\Рабочий стол\virusSleep\lab5\IterationCode\IterationCode\bin\Debug\netcoreapp3.1\IterationCode.runtimeconfig.dev.json
+D:\Стандартные папки\Рабочий стол\virusSleep\lab5\IterationCode\IterationCode\bin\Debug\netcoreapp3.1\IterationCode.dll
+D:\Стандартные папки\Рабочий стол\virusSleep\lab5\IterationCode\IterationCode\bin\Debug\netcoreapp3.1\IterationCode.pdb
+D:\Стандартные папки\Рабочий стол\virusSleep\lab5\IterationCode\IterationCode\obj\Debug\netcoreapp3.1\IterationCode.csproj.AssemblyReference.cache
+D:\Стандартные папки\Рабочий стол\virusSleep\lab5\IterationCode\IterationCode\obj\Debug\netcoreapp3.1\IterationCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Стандартные папки\Рабочий стол\virusSleep\lab5\IterationCode\IterationCode\obj\Debug\netcoreapp3.1\IterationCode.AssemblyInfoInputs.cache
+D:\Стандартные папки\Рабочий стол\virusSleep\lab5\IterationCode\IterationCode\obj\Debug\netcoreapp3.1\IterationCode.AssemblyInfo.cs
+D:\Стандартные папки\Рабочий стол\virusSleep\lab5\IterationCode\IterationCode\obj\Debug\netcoreapp3.1\IterationCode.csproj.CoreCompileInputs.cache
+D:\Стандартные папки\Рабочий стол\virusSleep\lab5\IterationCode\IterationCode\obj\Debug\netcoreapp3.1\IterationCode.dll
+D:\Стандартные папки\Рабочий стол\virusSleep\lab5\IterationCode\IterationCode\obj\Debug\netcoreapp3.1\IterationCode.pdb
+D:\Стандартные папки\Рабочий стол\virusSleep\lab5\IterationCode\IterationCode\obj\Debug\netcoreapp3.1\IterationCode.genruntimeconfig.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб5\IterationCode\IterationCode\bin\Debug\netcoreapp3.1\IterationCode.exe
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб5\IterationCode\IterationCode\bin\Debug\netcoreapp3.1\IterationCode.deps.json
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб5\IterationCode\IterationCode\bin\Debug\netcoreapp3.1\IterationCode.runtimeconfig.json
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб5\IterationCode\IterationCode\bin\Debug\netcoreapp3.1\IterationCode.runtimeconfig.dev.json
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб5\IterationCode\IterationCode\bin\Debug\netcoreapp3.1\IterationCode.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб5\IterationCode\IterationCode\bin\Debug\netcoreapp3.1\IterationCode.pdb
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб5\IterationCode\IterationCode\obj\Debug\netcoreapp3.1\IterationCode.csproj.AssemblyReference.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб5\IterationCode\IterationCode\obj\Debug\netcoreapp3.1\IterationCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб5\IterationCode\IterationCode\obj\Debug\netcoreapp3.1\IterationCode.AssemblyInfoInputs.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб5\IterationCode\IterationCode\obj\Debug\netcoreapp3.1\IterationCode.AssemblyInfo.cs
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб5\IterationCode\IterationCode\obj\Debug\netcoreapp3.1\IterationCode.csproj.CoreCompileInputs.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб5\IterationCode\IterationCode\obj\Debug\netcoreapp3.1\IterationCode.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб5\IterationCode\IterationCode\obj\Debug\netcoreapp3.1\IterationCode.pdb
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\лаб5\IterationCode\IterationCode\obj\Debug\netcoreapp3.1\IterationCode.genruntimeconfig.cache

@@ -1,0 +1,40 @@
+D:\University\3 course\1 sem\Защита информации_10вар\lab4.5\modHemmingCode\modHemmingCode\bin\Debug\netcoreapp3.1\modHemmingCode.exe
+D:\University\3 course\1 sem\Защита информации_10вар\lab4.5\modHemmingCode\modHemmingCode\bin\Debug\netcoreapp3.1\modHemmingCode.deps.json
+D:\University\3 course\1 sem\Защита информации_10вар\lab4.5\modHemmingCode\modHemmingCode\bin\Debug\netcoreapp3.1\modHemmingCode.runtimeconfig.json
+D:\University\3 course\1 sem\Защита информации_10вар\lab4.5\modHemmingCode\modHemmingCode\bin\Debug\netcoreapp3.1\modHemmingCode.runtimeconfig.dev.json
+D:\University\3 course\1 sem\Защита информации_10вар\lab4.5\modHemmingCode\modHemmingCode\bin\Debug\netcoreapp3.1\modHemmingCode.dll
+D:\University\3 course\1 sem\Защита информации_10вар\lab4.5\modHemmingCode\modHemmingCode\bin\Debug\netcoreapp3.1\modHemmingCode.pdb
+D:\University\3 course\1 sem\Защита информации_10вар\lab4.5\modHemmingCode\modHemmingCode\obj\Debug\netcoreapp3.1\modHemmingCode.csprojAssemblyReference.cache
+D:\University\3 course\1 sem\Защита информации_10вар\lab4.5\modHemmingCode\modHemmingCode\obj\Debug\netcoreapp3.1\modHemmingCode.AssemblyInfoInputs.cache
+D:\University\3 course\1 sem\Защита информации_10вар\lab4.5\modHemmingCode\modHemmingCode\obj\Debug\netcoreapp3.1\modHemmingCode.AssemblyInfo.cs
+D:\University\3 course\1 sem\Защита информации_10вар\lab4.5\modHemmingCode\modHemmingCode\obj\Debug\netcoreapp3.1\modHemmingCode.csproj.CoreCompileInputs.cache
+D:\University\3 course\1 sem\Защита информации_10вар\lab4.5\modHemmingCode\modHemmingCode\obj\Debug\netcoreapp3.1\modHemmingCode.dll
+D:\University\3 course\1 sem\Защита информации_10вар\lab4.5\modHemmingCode\modHemmingCode\obj\Debug\netcoreapp3.1\modHemmingCode.pdb
+D:\University\3 course\1 sem\Защита информации_10вар\lab4.5\modHemmingCode\modHemmingCode\obj\Debug\netcoreapp3.1\modHemmingCode.genruntimeconfig.cache
+D:\University\3 course\1 sem\Защита информации_10вар\lab4\lab4.5\modHemmingCode\modHemmingCode\bin\Debug\netcoreapp3.1\modHemmingCode.exe
+D:\University\3 course\1 sem\Защита информации_10вар\lab4\lab4.5\modHemmingCode\modHemmingCode\bin\Debug\netcoreapp3.1\modHemmingCode.deps.json
+D:\University\3 course\1 sem\Защита информации_10вар\lab4\lab4.5\modHemmingCode\modHemmingCode\bin\Debug\netcoreapp3.1\modHemmingCode.runtimeconfig.json
+D:\University\3 course\1 sem\Защита информации_10вар\lab4\lab4.5\modHemmingCode\modHemmingCode\bin\Debug\netcoreapp3.1\modHemmingCode.runtimeconfig.dev.json
+D:\University\3 course\1 sem\Защита информации_10вар\lab4\lab4.5\modHemmingCode\modHemmingCode\bin\Debug\netcoreapp3.1\modHemmingCode.dll
+D:\University\3 course\1 sem\Защита информации_10вар\lab4\lab4.5\modHemmingCode\modHemmingCode\bin\Debug\netcoreapp3.1\modHemmingCode.pdb
+D:\University\3 course\1 sem\Защита информации_10вар\lab4\lab4.5\modHemmingCode\modHemmingCode\obj\Debug\netcoreapp3.1\modHemmingCode.csprojAssemblyReference.cache
+D:\University\3 course\1 sem\Защита информации_10вар\lab4\lab4.5\modHemmingCode\modHemmingCode\obj\Debug\netcoreapp3.1\modHemmingCode.AssemblyInfoInputs.cache
+D:\University\3 course\1 sem\Защита информации_10вар\lab4\lab4.5\modHemmingCode\modHemmingCode\obj\Debug\netcoreapp3.1\modHemmingCode.AssemblyInfo.cs
+D:\University\3 course\1 sem\Защита информации_10вар\lab4\lab4.5\modHemmingCode\modHemmingCode\obj\Debug\netcoreapp3.1\modHemmingCode.csproj.CoreCompileInputs.cache
+D:\University\3 course\1 sem\Защита информации_10вар\lab4\lab4.5\modHemmingCode\modHemmingCode\obj\Debug\netcoreapp3.1\modHemmingCode.dll
+D:\University\3 course\1 sem\Защита информации_10вар\lab4\lab4.5\modHemmingCode\modHemmingCode\obj\Debug\netcoreapp3.1\modHemmingCode.pdb
+D:\University\3 course\1 sem\Защита информации_10вар\lab4\lab4.5\modHemmingCode\modHemmingCode\obj\Debug\netcoreapp3.1\modHemmingCode.genruntimeconfig.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\lab4\lab4.5\modHemmingCode\modHemmingCode\bin\Debug\netcoreapp3.1\modHemmingCode.exe
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\lab4\lab4.5\modHemmingCode\modHemmingCode\bin\Debug\netcoreapp3.1\modHemmingCode.deps.json
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\lab4\lab4.5\modHemmingCode\modHemmingCode\bin\Debug\netcoreapp3.1\modHemmingCode.runtimeconfig.json
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\lab4\lab4.5\modHemmingCode\modHemmingCode\bin\Debug\netcoreapp3.1\modHemmingCode.runtimeconfig.dev.json
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\lab4\lab4.5\modHemmingCode\modHemmingCode\bin\Debug\netcoreapp3.1\modHemmingCode.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\lab4\lab4.5\modHemmingCode\modHemmingCode\bin\Debug\netcoreapp3.1\modHemmingCode.pdb
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\lab4\lab4.5\modHemmingCode\modHemmingCode\obj\Debug\netcoreapp3.1\modHemmingCode.csproj.AssemblyReference.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\lab4\lab4.5\modHemmingCode\modHemmingCode\obj\Debug\netcoreapp3.1\modHemmingCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\lab4\lab4.5\modHemmingCode\modHemmingCode\obj\Debug\netcoreapp3.1\modHemmingCode.AssemblyInfoInputs.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\lab4\lab4.5\modHemmingCode\modHemmingCode\obj\Debug\netcoreapp3.1\modHemmingCode.AssemblyInfo.cs
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\lab4\lab4.5\modHemmingCode\modHemmingCode\obj\Debug\netcoreapp3.1\modHemmingCode.csproj.CoreCompileInputs.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\lab4\lab4.5\modHemmingCode\modHemmingCode\obj\Debug\netcoreapp3.1\modHemmingCode.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\lab4\lab4.5\modHemmingCode\modHemmingCode\obj\Debug\netcoreapp3.1\modHemmingCode.pdb
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\lab4\lab4.5\modHemmingCode\modHemmingCode\obj\Debug\netcoreapp3.1\modHemmingCode.genruntimeconfig.cache

@@ -1,0 +1,41 @@
+D:\University\3 course\1 sem\Защита информации_10вар\lab4\HemingCode\HemingCode\bin\Debug\netcoreapp3.1\HemingCode.exe
+D:\University\3 course\1 sem\Защита информации_10вар\lab4\HemingCode\HemingCode\bin\Debug\netcoreapp3.1\HemingCode.deps.json
+D:\University\3 course\1 sem\Защита информации_10вар\lab4\HemingCode\HemingCode\bin\Debug\netcoreapp3.1\HemingCode.runtimeconfig.json
+D:\University\3 course\1 sem\Защита информации_10вар\lab4\HemingCode\HemingCode\bin\Debug\netcoreapp3.1\HemingCode.runtimeconfig.dev.json
+D:\University\3 course\1 sem\Защита информации_10вар\lab4\HemingCode\HemingCode\bin\Debug\netcoreapp3.1\HemingCode.dll
+D:\University\3 course\1 sem\Защита информации_10вар\lab4\HemingCode\HemingCode\bin\Debug\netcoreapp3.1\HemingCode.pdb
+D:\University\3 course\1 sem\Защита информации_10вар\lab4\HemingCode\HemingCode\obj\Debug\netcoreapp3.1\HemingCode.csprojAssemblyReference.cache
+D:\University\3 course\1 sem\Защита информации_10вар\lab4\HemingCode\HemingCode\obj\Debug\netcoreapp3.1\HemingCode.AssemblyInfoInputs.cache
+D:\University\3 course\1 sem\Защита информации_10вар\lab4\HemingCode\HemingCode\obj\Debug\netcoreapp3.1\HemingCode.AssemblyInfo.cs
+D:\University\3 course\1 sem\Защита информации_10вар\lab4\HemingCode\HemingCode\obj\Debug\netcoreapp3.1\HemingCode.csproj.CoreCompileInputs.cache
+D:\University\3 course\1 sem\Защита информации_10вар\lab4\HemingCode\HemingCode\obj\Debug\netcoreapp3.1\HemingCode.dll
+D:\University\3 course\1 sem\Защита информации_10вар\lab4\HemingCode\HemingCode\obj\Debug\netcoreapp3.1\HemingCode.pdb
+D:\University\3 course\1 sem\Защита информации_10вар\lab4\HemingCode\HemingCode\obj\Debug\netcoreapp3.1\HemingCode.genruntimeconfig.cache
+D:\Стандартные папки\Рабочий стол\virusSleep\lab4\HemingCode\HemingCode\bin\Debug\netcoreapp3.1\HemingCode.exe
+D:\Стандартные папки\Рабочий стол\virusSleep\lab4\HemingCode\HemingCode\bin\Debug\netcoreapp3.1\HemingCode.deps.json
+D:\Стандартные папки\Рабочий стол\virusSleep\lab4\HemingCode\HemingCode\bin\Debug\netcoreapp3.1\HemingCode.runtimeconfig.json
+D:\Стандартные папки\Рабочий стол\virusSleep\lab4\HemingCode\HemingCode\bin\Debug\netcoreapp3.1\HemingCode.runtimeconfig.dev.json
+D:\Стандартные папки\Рабочий стол\virusSleep\lab4\HemingCode\HemingCode\bin\Debug\netcoreapp3.1\HemingCode.dll
+D:\Стандартные папки\Рабочий стол\virusSleep\lab4\HemingCode\HemingCode\bin\Debug\netcoreapp3.1\HemingCode.pdb
+D:\Стандартные папки\Рабочий стол\virusSleep\lab4\HemingCode\HemingCode\obj\Debug\netcoreapp3.1\HemingCode.csproj.AssemblyReference.cache
+D:\Стандартные папки\Рабочий стол\virusSleep\lab4\HemingCode\HemingCode\obj\Debug\netcoreapp3.1\HemingCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Стандартные папки\Рабочий стол\virusSleep\lab4\HemingCode\HemingCode\obj\Debug\netcoreapp3.1\HemingCode.AssemblyInfoInputs.cache
+D:\Стандартные папки\Рабочий стол\virusSleep\lab4\HemingCode\HemingCode\obj\Debug\netcoreapp3.1\HemingCode.AssemblyInfo.cs
+D:\Стандартные папки\Рабочий стол\virusSleep\lab4\HemingCode\HemingCode\obj\Debug\netcoreapp3.1\HemingCode.csproj.CoreCompileInputs.cache
+D:\Стандартные папки\Рабочий стол\virusSleep\lab4\HemingCode\HemingCode\obj\Debug\netcoreapp3.1\HemingCode.dll
+D:\Стандартные папки\Рабочий стол\virusSleep\lab4\HemingCode\HemingCode\obj\Debug\netcoreapp3.1\HemingCode.pdb
+D:\Стандартные папки\Рабочий стол\virusSleep\lab4\HemingCode\HemingCode\obj\Debug\netcoreapp3.1\HemingCode.genruntimeconfig.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\lab4\HemingCode\HemingCode\bin\Debug\netcoreapp3.1\HemingCode.exe
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\lab4\HemingCode\HemingCode\bin\Debug\netcoreapp3.1\HemingCode.deps.json
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\lab4\HemingCode\HemingCode\bin\Debug\netcoreapp3.1\HemingCode.runtimeconfig.json
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\lab4\HemingCode\HemingCode\bin\Debug\netcoreapp3.1\HemingCode.runtimeconfig.dev.json
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\lab4\HemingCode\HemingCode\bin\Debug\netcoreapp3.1\HemingCode.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\lab4\HemingCode\HemingCode\bin\Debug\netcoreapp3.1\HemingCode.pdb
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\lab4\HemingCode\HemingCode\obj\Debug\netcoreapp3.1\HemingCode.csproj.AssemblyReference.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\lab4\HemingCode\HemingCode\obj\Debug\netcoreapp3.1\HemingCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\lab4\HemingCode\HemingCode\obj\Debug\netcoreapp3.1\HemingCode.AssemblyInfoInputs.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\lab4\HemingCode\HemingCode\obj\Debug\netcoreapp3.1\HemingCode.AssemblyInfo.cs
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\lab4\HemingCode\HemingCode\obj\Debug\netcoreapp3.1\HemingCode.csproj.CoreCompileInputs.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\lab4\HemingCode\HemingCode\obj\Debug\netcoreapp3.1\HemingCode.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\lab4\HemingCode\HemingCode\obj\Debug\netcoreapp3.1\HemingCode.pdb
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ЗИНИС\lab4\HemingCode\HemingCode\obj\Debug\netcoreapp3.1\HemingCode.genruntimeconfig.cache
